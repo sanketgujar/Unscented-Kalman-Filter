@@ -1,8 +1,8 @@
 # Unscented Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
-The Flow of my code is as shown below
 ![Alt text](UKF1_gif.gif?raw=true "Optional Title")
+
 
 This project utilizes an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 
@@ -85,3 +85,4 @@ The 3 important steps are
 Lidar measurements are red circles, radar measurements are blue circles with an arrow pointing in the direction of the observed angle, and estimation markers are green triangles.
 
 
+![Alt text](UKF1_gif.gif?raw=true "Optional Title")
